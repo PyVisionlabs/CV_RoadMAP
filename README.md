@@ -4,9 +4,9 @@
 
 <h3>Começando pelo Básico:</h3>
 
-<p>Programação:
-Python Iniciante - 
-Python intermediário - </p>
+<br>Programação:</br>
+<br>Python Iniciante - </br>
+<br>Python intermediário - </br>
 
 
 Matemática:
