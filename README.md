@@ -4,7 +4,7 @@
 
 <h3>Começando pelo Básico:</h3>
 
-<p><h5>Programação:</h5><br>
+<p>Programação:<br>
 Python Iniciante - <br>
 Python intermediário - <br></p>
 
