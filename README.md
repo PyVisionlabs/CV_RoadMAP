@@ -9,9 +9,9 @@ Python Iniciante - <br>
 Python intermediário - <br></p>
 
 
-Matemática:
-Algebra Línear - 
-Pré-Cálculo -
-Cálculo 1 - 
-Cálculo 2 -
+<p>Matemática:<br>
+Algebra Línear - <br>
+Pré-Cálculo - <br>
+Cálculo 1 - <br>
+Cálculo 2 -<br><p/>
 
