@@ -1,4 +1,4 @@
-# RoadMap para se tornar um Desenvolvedor focado em Visão Computacional
+# RoadMap Visão Computacional
 
 
 
@@ -14,4 +14,14 @@ Algebra Línear - <br>
 Pré-Cálculo - <br>
 Cálculo 1 - <br>
 Cálculo 2 -<br><p/>
+
+
+Iniciando na Visão Computacional (Inglês)(Inglês)
+
+
+Tópicos Intermediário (Inglês)
+
+Tópicos Avançados (inglês)
+
+Intensivo de Visão Computacional de Saulo Jubilado
 
