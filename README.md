@@ -5,7 +5,7 @@
 <h3>Começando pelo Básico:</h3>
 
 <p>Programação:<br>
-Python Iniciante - <a href="https://youtu.be/S9uPNppGsGo"></a><br>
+Python Iniciante - <a href="https://youtu.be/S9uPNppGsGo"</a><br>
 Python intermediário - <br></p>
 
 
