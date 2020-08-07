@@ -6,7 +6,7 @@
 
 <p>Programação:<br>
 Python Iniciante - <a href="https://youtu.be/S9uPNppGsGo">Guanabara</a><br>
-Python intermediário - <br></p>
+Python intermediário - <a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">DSA</a><br></p>
 
 
 <p>Matemática:<br>
